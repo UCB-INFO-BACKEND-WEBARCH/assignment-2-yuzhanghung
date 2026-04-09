@@ -1,0 +1,7 @@
+flask
+flask-smorest
+flask-sqlalchemy
+flask-migrate
+marshmallow
+redis
+rq
