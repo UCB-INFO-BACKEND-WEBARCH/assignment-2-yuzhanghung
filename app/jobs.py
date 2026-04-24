@@ -1,6 +1,6 @@
 import time
 
-def notify_task_created(name):
-    print(f"Starting job for {name}")
+
+def send_due_soon_reminder(task_title):
     time.sleep(5)
-    print(f"Finished job for {name}")
+    print(f"Reminder: Task '{task_title}' is due soon!", flush=True)

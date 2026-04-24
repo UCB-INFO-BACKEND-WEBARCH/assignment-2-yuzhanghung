@@ -5,3 +5,4 @@ flask-migrate
 marshmallow
 redis
 rq
+psycopg2-binary
